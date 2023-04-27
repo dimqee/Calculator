@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\bin\Debug\lab1_calculator.exe.config
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\bin\Debug\lab1_calculator.exe
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\bin\Debug\lab1_calculator.pdb
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.exe
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\lab1_calculator.pdb
+C:\Users\Дмитрий\source\repos\lab1_calculator\lab1_calculator\obj\Debug\LAB1_TP.Calculator.resources
